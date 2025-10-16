@@ -1,0 +1,14 @@
+﻿__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.ipynb_convert*
+# comment these out if you want to track data
+*.csv
+*.xlsx
+*.zip
