@@ -100,11 +100,11 @@ Through this project I learned that:
 
 Project Files
 dm_project_3/
-├── dm_project_3_starter.ipynb   # Full notebook
-├── data_description.txt         # Dataset information
-├── submission.csv               # Optional Kaggle submission
-├── README.md                    # Project summary
-└── .gitignore                   # Cleanup file
+├── dm_project_3_starter.ipynb # Full notebook
+├── data_description.txt # Dataset information
+├── submission.csv # Optional Kaggle submission
+├── README.md # Project summary
+└── .gitignore # Cleanup file
 
 
 ---
